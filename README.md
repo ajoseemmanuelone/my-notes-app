@@ -9,8 +9,8 @@ A clean and intuitive notes app built with Flutter and Firebase, featuring cloud
 <p float="left">
   <img src="Login screen.jpg" width="200"/>
   <img src="Notes list screen.jpg" width="200"/>
-  <img src="Create or update note screen.jpg" width="200"/>
   <img src="Search notes screen.jpg" width="200"/>
+  <img src="Create or update note screen.jpg" width="200"/>
   <img src="Speech to text screen.jpg" width="200"/>
   <img src="Sharing notes screen.jpg" width="200"/>
 </p>
@@ -44,4 +44,4 @@ A clean and intuitive notes app built with Flutter and Firebase, featuring cloud
 
 ## Author
 
-**Emmanuel Ajose** 
+**Ajose Emmanuel** 
