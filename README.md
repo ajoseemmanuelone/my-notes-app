@@ -1,4 +1,4 @@
-# My Notes 📝
+# Notes 📝
 
 A clean and intuitive notes app built with Flutter and Firebase, featuring cloud sync, speech-to-text, and real-time search.
 
