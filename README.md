@@ -4,6 +4,11 @@ A clean and intuitive notes app built with Flutter and Firebase, featuring cloud
 
 ---
 
+## 🚀 Coming Soon to Google Play
+The app is currently in final preparation and will be available on the Google Play Store soon. Stay tuned!
+
+---
+
 ## Screenshots
 
 <p float="left">
