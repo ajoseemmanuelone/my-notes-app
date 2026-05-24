@@ -4,7 +4,7 @@ A clean and intuitive notes app built with Flutter and Firebase, featuring cloud
 
 ---
 
-## 🚀 Live on Google Play
+## 🚀 Live On Google Play
 https://play.google.com/store/apps/details?id=com.ajose.notes
 
 ---
