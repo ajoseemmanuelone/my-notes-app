@@ -24,16 +24,16 @@ https://play.google.com/store/apps/details?id=com.ajose.notes
 
 ## Features
 
-- 🔐 **Authentication** — Register, login, email verification and forgot password via Firebase Auth
-- ☁️ **Cloud Sync** — Notes are stored on Firebase Firestore and available across devices
-- 📝 **Full Note Management** — Create, read, update and delete notes with ease
-- 💾 **Auto-Save** — Notes save automatically as you type, no save button needed
-- 🎤 **Speech to Text** — Dictate your notes hands-free using your microphone
-- 🔍 **Real-Time Search** — Instantly filter notes as you type in the search bar
-- 🕐 **Date & Time Stamps** — Each note displays when it was created
-- 📅 **Newest First** — Notes are always sorted with the most recent at the top
-- 📤 **Share Notes** — Share note content directly to other apps
-- 📶 **Offline Support** — Notes load from cache even without an internet connection
+- **Authentication** — Register, login, email verification and forgot password via Firebase Auth
+- **Cloud Sync** — Notes are stored on Firebase Firestore and available across devices
+- **Full Note Management** — Create, read, update and delete notes with ease
+- **Auto-Save** — Notes save automatically as you type, no save button needed
+- **Speech to Text** — Dictate your notes hands-free using your microphone
+- **Real-Time Search** — Instantly filter notes as you type in the search bar
+- **Date & Time Stamps** — Each note displays when it was created
+- **Newest First** — Notes are always sorted with the most recent at the top
+- **Share Notes** — Share note content directly to other apps
+- **Offline Support** — Notes load from cache even without an internet connection
 
 ---
 
